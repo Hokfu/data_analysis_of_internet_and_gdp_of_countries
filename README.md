@@ -3,3 +3,4 @@ This is my project on relation between internet user percentage and gdp of count
 These are the reference links of my data
 https://www.kaggle.com/datasets/ashishraut64/internet-users 
 https://ourworldindata.org/grapher/gross-domestic-product
+All credits go to the owner of data
